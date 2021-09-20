@@ -8,8 +8,7 @@ import br.com.caelum.vraptor.Path;
 @Path("login")
 public class LoginController {
 
-	@Get("")
-	public void login() {
-		
-	}
+    @Get("")
+    public void login() {
+    }
 }
